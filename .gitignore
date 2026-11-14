@@ -1,0 +1,16 @@
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+
+# Submission zips
+*.zip
+
+# Lab briefs from the lecturer
+*.pdf
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
