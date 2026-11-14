@@ -1,0 +1,21 @@
+.member-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  transition: transform 0.3s ease;
+}
+
+.member-card:hover {
+  transform: scale(1.05);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
+
+.member-card img {
+  width: 100px;
+  height: 100px;
+}
+
+.hooker { background-color: lightblue; }
+.lock { background-color: lightgreen; }
+.fly-half { background-color: lightyellow; }
+.back-row { background-color: lightpink; }
